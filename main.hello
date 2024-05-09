@@ -1,0 +1,7 @@
+include "standart.json"
+
+start_program
+{
+  print_to_screen("Hello, World!");
+}
+return 0;

@@ -1,0 +1,12 @@
+{
+    "commands": {
+        "print_to_screen": {
+            "description": "Выводит сообщение на экран",
+            "function": "print_to_screen_function"
+        },
+        "get_input": {
+            "description": "Получает ввод от пользователя",
+            "function": "get_input_function"
+        }
+    }
+}
