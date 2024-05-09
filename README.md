@@ -27,6 +27,6 @@ You can write Hello code in any text editor. I recommend it in notepad :)
 Save the file with the extension .hello
 To run the file and see the result, go to the important directory where the interpreter, the language library and your file itself are located, right-click and go to “Open in terminal”.
 <div algin="center">
-    <img src="interpreting.png" width="300">
+    <img src="interpreting.png" width="1000">
 </div>
 Next, enter the command .\hello interpreter main.hello to run the interpretation process. At the end you will see the desired result.
