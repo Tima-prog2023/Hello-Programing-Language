@@ -22,3 +22,7 @@ start_program
 }
 return 0;
 ```
+
+You can write Hello code in any text editor. I recommend it in notepad :)
+Save the file with the extension .hello
+To run the file and see the result, go to the important directory where the interpreter, the language library and your file itself are located, right-click and go to “Open in terminal”.
