@@ -1,5 +1,5 @@
 <div algin="center">
-    <img src="logo.png" width="300">
+    <img src="hello_logo.png" width="300">
 </div>
 
 # Hello-Programing-Language
