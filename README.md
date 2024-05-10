@@ -2,6 +2,22 @@
     <img src="hello_logo.png" width="300">
 </div>
 
+# What's new in the Hello programming language?
+Now you can create variables as in the C language and you can display them on the screen using the print_variable command from the standard input/output library standard.json.
+Here is an example of creating and displaying variables on the screen:
+```c
+include "standart.json"
+
+start_program
+{
+  int x = 5;
+  int y = 6;
+  print_variable(x);
+  print_variable(y);
+}
+return 0;
+```
+
 # Hello-Programing-Language
 This is the Hello Programming Language - a joke programming language with C-like syntax
 
