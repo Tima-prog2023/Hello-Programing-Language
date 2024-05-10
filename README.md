@@ -29,4 +29,4 @@ To run the file and see the result, go to the important directory where the inte
 <div algin="center">
     <img src="interpreting.png" width="1000">
 </div>
-Next, enter the command .\hello interpreter main.hello to run the interpretation process. At the end you will see the desired result.
+Next, enter the command .\hello interpreter and file name with extension .hello to run the interpretation process. At the end you will see the desired result.
